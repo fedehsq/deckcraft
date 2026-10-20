@@ -63,7 +63,7 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.filename-extension</key>
-        <array><string>deckcraft</string></array>
+        <array><string>deckcraft</string><string>slidecraft</string></array>
         <key>public.mime-type</key>
         <array><string>application/x-deckcraft</string></array>
       </dict>
